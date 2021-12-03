@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itzgannu (Ganesh)
+- 👋 Hi, I’m @itzgannu (Lakshmi Phani Ganesh)
 - 👀 I’m interested in travelling, driving cars, watching Football (Manchester United), playing mobile games, watching TV series, learning new coding languages & gardening 
 - 🌱 I’m currently working on Android, Swift, iOS, Databases
 - 👨🏻‍💻 I learned & worked on Web Automation tools like Selenium, Protractor in Java, JavaScript, Cucumber, Gerkins & Mobile Automation tools like Appium both android & ios, browser-stack (just introduction & architecture)
