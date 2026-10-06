@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Ganesh 👋</h1>
 
 <p align="center">
-  Software engineer by day in Toronto. By night I run <a href="https://nerdynoobs.ca"><b>nerdynoobs</b></a> —
-  a small studio building games, websites, and mobile apps for people who have an idea
-  but don't want to learn what a container is.
+  QA engineer by trade, builder by habit. Based in Toronto.<br>
+  I spend my days asking <i>"but what if the user does this?"</i> and my evenings finding out,
+  mostly by building things under the name <a href="https://nerdynoobs.ca"><b>nerdynoobs</b></a>.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="mailto:nerdynoobs@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center"><i>Your noob idea. Our nerdy team. Shipped.</i></p>
+<p align="center"><i>Noob ideas, nerdy builds.</i></p>
 
 <br>
 
@@ -29,12 +29,12 @@ Browser-based, no install, real-time multiplayer. Play them at **[play.nerdynoob
 
 <br>
 
-## 🛠️ Other things I ship
+## 🛠️ Other things I've built
 
-- 🍽️ **Websites** for local restaurants — menus, ordering, the works
+- 🍽️ **Websites** for a few local restaurants — menus, ordering, the works
 - 📱 **Mobile apps** for iOS and Android
 - ⌚ **Watch apps** for watchOS and Wear OS
-- 🤖 **Test automation** — I spent years as a mobile and web automation engineer, so what I build gets tested like I mean it
+- 🤖 **Test automation** — years as a mobile and web automation engineer, now putting AI to work in QA, so what I build gets tested like I mean it
 
 <br>
 
